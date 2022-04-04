@@ -25,7 +25,7 @@ function waitAndClick(btnSelector,tabObj){
 }
 
 
-function solveSubmitProblem(link,tabObj){
+function solveSubmitProblem(link,tabObj,solution){
 
-	
+
 }
