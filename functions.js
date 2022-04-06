@@ -1,3 +1,4 @@
+
 function waitAndClick(btnSelector,tabObj){
 
 	const waitAndClickPromise = new Promise(function(resolve,reject){
@@ -29,3 +30,5 @@ function solveSubmitProblem(link,tabObj,solution){
 
 
 }
+
+module.exports = {waitAndClick : waitAndClick}

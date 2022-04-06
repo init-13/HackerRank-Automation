@@ -5,13 +5,13 @@ const details = {
 	password: "testmane",
 	btnLogin: ".ui-btn.ui-btn-large,ui-btn-primary.auth-button.ui-btn-styled",
 	btnAlgorithm: "div[data-automation='algorithms']",
-	btnAllQ: 'a[data-analytics="ChallengeListChallengeName"]'
+	btnAllQ: 'a[data-analytics="ChallengeListChallengeName"]',
 	selCE: ".checkbox-input",
 	selCustom: ".custominput",
 	selEditor: ".monaco-editor.no-user-select.vs",
 	btnsubmit: ".hr-monaco-submit"
 };
 
-module.export = details;
+module.exports = details;
 
 // buttons to press -> Login -> Algorithms -> AllQuestion -> Submit
