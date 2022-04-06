@@ -8,7 +8,7 @@ Applied Javascript Promises to resolve Async events.
 
 ## To change the details such as browser location, username and password go to "deatail.js".
 
-##Screenshot:
+## Screenshot:
 
 ![Screenshot1](ss1.png)
 
